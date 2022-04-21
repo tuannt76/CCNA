@@ -48,7 +48,7 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
 
 [7.Day_7_IPv4](./docs/7.CCNA_day_7_(IPv4).md)
 
-[9.Day_0_Vlan](./docs/9.CCNA_day_9_(Vlan).md)
+[9.Day_9_Vlan](./docs/9.CCNA_day_9_(Vlan).md)
 
 [10.Day_10_Int_Vlan](./docs/10.CCNA_day_10(Int_VLAN).md)
 
