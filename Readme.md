@@ -10,7 +10,8 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
   
       + Xây dựng được 1 hệ thống mạng doanh nghiệp đáp ứng 500,1000 người 
   
-      + Khái niệm mạng LAN, vlan,WAN,....
+      + Khái niệm mạng LAN, vlan,WAN và thực hiện cấu hình lab vlan,IntVlan,Wan,Wlan,VTP,ethernet channel,...
+
 + <h3>Hệ thống mang WAN</h3>:
   
       + Giao thức VPN.
