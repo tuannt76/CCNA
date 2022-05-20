@@ -22,7 +22,7 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
   
     + Kết nối được các chi nhánh công ty, tổ chức, vị trí khác nhau 
 
-**<h2>Mục lục</h2>** :
+**<h2>Mục lục :</h2>** 
 
 **Cài đặt EVE-NG**
 
