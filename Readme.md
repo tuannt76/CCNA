@@ -6,17 +6,18 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
     + Các khái niệm liên quan đến địa chỉ IP
 + <h3>Định Tuyến (Routing) và switching </h3>
     + Giao thức định tuyến, thiết lập các tham số trên Router thực hiện định tuyến , chuyển mạch dữ liệu từ Source -> Destiction tối ưu nhất, Không bị mất tín hiệu 
-+ <h3>Mạng doanh nghiệp</h3>:
++ <h3>Mạng doanh nghiệp :</h3>
   
-      + Xây dựng được 1 hệ thống mạng doanh nghiệp đáp ứng 500,1000 người 
-  
-      + Khái niệm mạng LAN, vlan,WAN và thực hiện cấu hình lab vlan,IntVlan,Wan,Wlan,VTP,ethernet channel,...
 
-+ <h3>Hệ thống mang WAN</h3>:
+   + Xây dựng được 1 hệ thống mạng doanh nghiệp đáp ứng 500,1000 người 
   
-      + Giao thức VPN.
+  + Khái niệm mạng LAN, vlan,WAN và thực hiện cấu hình lab vlan,IntVlan,Wan,Wlan,VTP,ethernet channel,...
+
++ <h3>Hệ thống mang WAN :</h3>
   
-      + Kết nối được các chi nhánh công ty, tổ chức, vị trí khác nhau 
+    + Giao thức VPN.
+  
+    + Kết nối được các chi nhánh công ty, tổ chức, vị trí khác nhau 
 
 **<h2>Mục lục</h2>** :
 
