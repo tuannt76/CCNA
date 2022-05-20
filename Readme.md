@@ -6,6 +6,7 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
   - Hiểu biết được chi tiết 2 máy tính nói chuyện với nhau như thế nào  
   
   - Các khái niệm liên quan đến địa chỉ IP
+  
 + <h3>Định Tuyến (Routing) và switching </h3>
     + Giao thức định tuyến, thiết lập các tham số trên Router thực hiện định tuyến , chuyển mạch dữ liệu từ Source -> Destiction tối ưu nhất, Không bị mất tín hiệu 
 + <h3>Mạng doanh nghiệp :</h3>
