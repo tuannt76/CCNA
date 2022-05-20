@@ -69,3 +69,5 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
 [17.Day_17_Lab_ethernet_Channel](./docs/17.CCNA_Day_17_Lab_ethernet_channel.md)
 
 [18.Day_18_Lab_VTP](./docs/18.CCNA_day_18_(VTP).md)
+
+[19. Tìm hiểu nghiên cứu Router Mikrotik và ứng dụng ](docs/19.CCNA_Tìm_hiểu_nghiên_cứu_Router_Mikrotik_và_ứng_dụng.docx)
