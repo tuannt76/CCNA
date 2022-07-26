@@ -77,3 +77,7 @@ Sau khi tìm hiểu tìm xong Chương trình này chúng ta sẽ nắm được
 [19. Tìm hiểu nghiên cứu Router Mikrotik và ứng dụng ](docs/19.%20CCNA_Tìm%20hiểu%20nghiên%20cứu%20Router%20Mikrotik)
 
 Updating...
+
+Tham khảo các bài viết chất lượng hơn do mình viết :
+
+[Tài Liệu CCNA cơ bản](https://drive.google.com/drive/folders/1pjCU9jz4F4JP2XaXWeTzkiaO2Lr6t9Cd?usp=sharing)
